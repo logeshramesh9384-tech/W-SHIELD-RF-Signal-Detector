@@ -8,8 +8,6 @@ A dual-purpose system that detects unauthorized wireless devices (mobile phones,
 > **Supervisor:** Dr. J.S. Leena Jasmine
 > **Academic Year:** Even Sem 2024–25
 
-📄 **[Full Project Report (PDF)](./W-SHIELD_Report.pdf)**
-
 ---
 
 ## 📌 Table of Contents
@@ -61,10 +59,6 @@ A graphical interface visualizes energy harvesting efficiency, radiation sources
 | 6 | Cost-Effective & Scalable Design | Low-cost components enable deployment from small rooms to large public spaces. |
 | 7 | Challenges & Future Research | Improving harvesting efficiency and detection accuracy in weak-signal environments; ongoing antenna/sensor research. |
 
-## Block Diagram
-
-![Block Diagram](./images/block-diagram.png)
-
 ## Hardware Details
 
 - **Antenna** – Receives RF signals for detection and energy harvesting
@@ -83,14 +77,6 @@ Its standout feature is **RF energy harvesting** — in high-density environment
 
 A graphical interface displays harvested energy, conversion efficiency, and radiation sources for easy monitoring. The modular, low-cost design scales from small rooms to large public spaces with minimal installation effort.
 
-## Circuit Diagram
-
-![Circuit Diagram](./images/circuit-diagram.png)
-
-## Original Connection
-
-![Original Hardware Connection](./images/original-connection.png)
-
 ## Applications
 
 1. **High-Security Areas** (Government, Military, Corporate) — detects hidden surveillance devices to prevent espionage or data leaks.
@@ -106,11 +92,6 @@ A graphical interface displays harvested energy, conversion efficiency, and radi
 11. **Agricultural & Remote Areas** — powers remote sensors, irrigation, and weather monitoring devices.
 12. **Smart Grids & Energy Management** — detects unauthorized devices that could disrupt grid systems.
 13. **Consumer Electronics & IoT Networks** — detects rogue devices on IoT networks while harvesting energy for sensors.
-
-## Graphs
-
-![Energy Harvesting Graph](./images/graph-1.png)
-![Radiation Monitoring Graph](./images/graph-2.png)
 
 ## Benefits
 
@@ -141,6 +122,4 @@ Its energy harvesting function captures ambient RF energy to power floodlights, 
 6. Nguyen, T. N., et al. (2022). *Security-Reliability Trade-Off Analysis for SWIPT- and AF-Based IoT Networks with Friendly Jammers.* arXiv:2206.04428.
 7. YouTube — Wireless Signal Detection and AMALDA FOX Logs.
 
----
-
-⭐ If you found this project interesting, consider giving it a star!
+------
